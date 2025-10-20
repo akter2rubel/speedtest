@@ -1,6 +1,7 @@
 name = "speedtest"
 type = "webpack"
 compatibility_date = "2025-06-05"
-assets = { directory = "./src" }
-main = "src/index.js"
+assets = { directory = "./dist" }
+main = "dist/index.js"
+
 
